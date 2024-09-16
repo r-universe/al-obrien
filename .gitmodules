@@ -5,3 +5,6 @@
 [submodule "rosv"]
 	path = rosv
 	url = https://github.com/al-obrien/rosv
+[submodule "spectralAnomaly"]
+	path = spectralAnomaly
+	url = https://github.com/al-obrien/spectralanomaly
